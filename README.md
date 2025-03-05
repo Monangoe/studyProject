@@ -1,2 +1,2 @@
 # studyProject
-Just my studyProjecy in GitHub
+Just my studyProject in GitHub
